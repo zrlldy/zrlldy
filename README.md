@@ -24,4 +24,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Zrlldy&icon=1&color=0)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/zrlldy/zrlldy/blob/output/github-snake-dark.svg)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
