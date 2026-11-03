@@ -1,5 +1,5 @@
 # 💫 About Me:
-• 👋 Hello, I'm Jerold Noynay<br><br>Welcome to my GitHub profile. I’m a passionate developer from the Philippines.
+• 👋 Hello, I'm Jerold Noynay<br><br>I’m a passionate developer from the Philippines.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/jeroldnoynay21) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zro.ldy/) 
