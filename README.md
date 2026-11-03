@@ -1,6 +1,5 @@
 # 💫 About Me:
-• 👋 Hello, I'm Jerold Noynay<br><br>Welcome to my GitHub profile. I’m a passionate developer from the Philippines, currently studying Information Technology and working on projects that aim to solve real-world problems through code.<br><br>💻 What I’m Working On<br><br>•🎓 SchedWise – A Web-Based Faculty Loading and Scheduling System for CTU Tabogon Extension<br>•💧 TapSense – An IoT-based Smart Water Monitoring System for Households<br><br>🧠 What I’m Learning<br><br>• Laravel + Livewire for rapid web development  <br>• Tailwind CSS for clean and responsive UI  <br>• React & Next.js to expand my frontend skills  <br>• Clean Code and Software Architecture Principles<br><br> 📫 How to Reach Me<br><br>- Email: jeroldnoynay123@gmail.com <br><br>Thanks for visiting. I’m always open to collaboration, feedback, or just a quick tech chat.
-
+• 👋 Hello, I'm Jerold Noynay<br><br>Welcome to my GitHub profile. I’m a passionate developer from the Philippines.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/jeroldnoynay21) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zro.ldy/) 
